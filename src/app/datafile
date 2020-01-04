@@ -1,0 +1,1617 @@
+{
+    "data": {
+        "cities": [
+            {
+                "country": "Afghanistan",
+                "city": "Kabul",
+                "subtitle": "Capital of Afghanistan",
+                "path": "afghanistan-kabul",
+                "description": "Kabul is the capital and largest city of Afghanistan, located in the eastern section of the country. It is also a municipality, forming part of the greater Kabul Province. According to estimates in 2019, the population of Kabul is 5.266 million, which includes all the major ethnic groups of Afghanistan. Wikipedia",
+                "image": "afghanistan-kabul.jpeg",
+                "lat": "@34.5533869,68.9175433"
+            },
+            {
+                "country": "Argentina",
+                "city": "Buenosaires",
+                "subtitle": "Capital of Argentina",
+                "path": "argentina-buenosaires",
+                "description": "Buenos Aires is Argentina’s big, cosmopolitan capital city. Its center is the Plaza de Mayo, lined with stately 19th-century buildings including Casa Rosada, the iconic, balconied presidential palace. Other major attractions include Teatro Colón, a grand 1908 opera house with nearly 2,500 seats, and the modern MALBA museum, displaying Latin American art.",
+                "image": "argentina-buenosaires.jpeg",
+                "lat": "@-34.6156625,-58.5033386"
+            },
+            {
+                "country": "Australia",
+                "city": "Brisbane",
+                "subtitle": "City in Australia",
+                "path": "australia-brisbane",
+                "description": "Brisbane, capital of Queensland, is a large city on the Brisbane River. Clustered in its South Bank cultural precinct are the Queensland Museum and Sciencentre, with noted interactive exhibitions. Another South Bank cultural institution is Queensland Gallery of Modern Art, among Australia's major contemporary art museums. Looming over the city is Mt. Coot-tha, site of Brisbane Botanic Gardens.",
+                "image": "australia-brisbane.jpeg",
+                "lat": "@-27.3810233,152.4327071"
+            },
+            {
+                "country": "Australia",
+                "city": "Canberra",
+                "subtitle": "Capital of Australia",
+                "path": "australia-canberra",
+                "description": "Canberra is the capital city of Australia. Founded following the federation of the colonies of Australia as the seat of government for the new nation, it is Australia's largest inland city and the eighth-largest city overall. Wikipedia",
+                "image": "australia-canberra.jpeg",
+                "lat": "@-35.2813043,149.1204446"
+            },
+            {
+                "country": "Australia",
+                "city": "Darwin",
+                "subtitle": "City in Australia",
+                "path": "australia-darwin",
+                "description": "Darwin is the capital of Australia's Northern Territory and a former frontier outpost. It's also a gateway to massive Kakadu National Park. Its popular waterfront area has several beaches and green areas like Bicentennial Park. Also near the water is the Museum and Art Gallery of the Northern Territory, displaying Southeast Asian and Pacific art, plus a pearling lugger and other seafaring vessels.",
+                "image": "australia-darwin.jpeg",
+                "lat": "@-23.5537749,130.9372839"
+            },
+            {
+                "country": "Australia",
+                "city": "Goldcoast",
+                "subtitle": "City in Australia",
+                "path": "australia-goldcoast",
+                "description": "The Gold Coast is a metropolitan region south of Brisbane on Australia’s east coast. It's famed for its long sandy beaches, surfing spots and elaborate system of inland canals and waterways. It’s also home to theme parks such as Dreamworld, Sea World and Wet’n’Wild. Inland, hiking trails crisscross Lamington National Park’s mountain ridges and valleys, home to rare birds and rainforest.",
+                "image": "australia-goldcoast.jpeg",
+                "lat": "@-27.9539379,153.0891641"
+            },
+            {
+                "country": "Australia",
+                "city": "Melbourne",
+                "subtitle": "City in Australia",
+                "path": "australia-melbourne",
+                "description": "Melbourne is the coastal capital of the southeastern Australian state of Victoria. At the city's centre is the modern Federation Square development, with plazas, bars, and restaurants by the Yarra River. In the Southbank area, the Melbourne Arts Precinct is the site of Arts Centre Melbourne – a performing arts complex – and the National Gallery of Victoria, with Australian and indigenous art.",
+                "image": "australia-melbourne.jpeg",
+                "lat": "@-37.9712369,144.492671"
+            },
+            {
+                "country": "Australia",
+                "city": "Perth",
+                "subtitle": "City in Australia",
+                "path": "australia-perth",
+                "description": "Perth, capital of Western Australia, sits where the Swan River meets the southwest coast. Sandy beaches line its suburbs, and the huge, riverside Kings Park and Botanic Garden on Mount Eliza offer sweeping views of the city. The Perth Cultural Centre houses the state ballet and opera companies, and occupies its own central precinct, including a theatre, library and the Art Gallery of Western Australia.",
+                "image": "australia-perth.jpeg",
+                "lat": "@-32.0388311,115.4010565"
+            },
+            {
+                "country": "Australia",
+                "city": "Sydney",
+                "subtitle": "City in Australia",
+                "path": "australia-sydney",
+                "description": "Sydney, capital of New South Wales and one of Australia's largest cities, is best known for its harbourfront Sydney Opera House, with a distinctive sail-like design. Massive Darling Harbour and the smaller Circular Quay port are hubs of waterside life, with the arched Harbour Bridge and esteemed Royal Botanic Garden nearby. Sydney Tower’s outdoor platform, the Skywalk, offers 360-degree views of the city and suburbs.",
+                "image": "australia-sydney.jpeg",
+                "lat": "@-33.847927,150.6517805"
+            },
+            {
+                "country": "Austria",
+                "city": "Vienna",
+                "subtitle": "Capital of Austria",
+                "path": "austria-vienna",
+                "description": "Vienna, Austria’s capital, lies in the country’s east on the Danube River. Its artistic and intellectual legacy was shaped by residents including Mozart, Beethoven and Sigmund Freud. The city is also known for its Imperial palaces, including Schönbrunn, the Habsburgs’ summer residence. In the MuseumsQuartier district, historic and contemporary buildings display works by Egon Schiele, Gustav Klimt and other artists.",
+                "image": "austria-vienna.jpeg",
+                "lat": "@48.2205998,16.2399758"
+            },
+            {
+                "country": "Bahrain",
+                "city": "Manama",
+                "subtitle": "Capital of Bahrain",
+                "path": "bahrain-manama",
+                "description": "Manama, the modern capital of the Arabian Gulf island nation of Bahrain, has been at the center of major trade routes since antiquity. Its acclaimed Bahrain National Museum showcases artifacts from the ancient Dilmun civilization that flourished in the region for millennia. The city's thriving Bab el-Bahrain Souq offers wares from colorful handwoven fabrics and spices to pearls.",
+                "image": "bahrain-manama.jpeg",
+                "lat": "@26.2266124,50.5540066"
+            },
+            {
+                "country": "Bangladesh",
+                "city": "Dhaka",
+                "subtitle": "Capital of Bangladesh",
+                "path": "bangladesh-dhaka",
+                "description": "Dhaka is the capital city of Bangladesh, in southern Asia. Set beside the Buriganga River, it’s at the center of national government, trade and culture. The 17th-century old city was the Mughal capital of Bengal, and many palaces and mosques remain. American architect Louis Khan’s National Parliament House complex typifies the huge, fast-growing modern metropolis.",
+                "image": "bangladesh-dhaka.jpeg",
+                "lat": "@23.7805733,90.2792382"
+            },
+            {
+                "country": "Belgium",
+                "city": "Antwerp",
+                "subtitle": "City in Belgium",
+                "path": "belgium-antwerp",
+                "description": "Antwerp is a port city on Belgium’s River Scheldt, with history dating to the Middle Ages. In its center, the centuries-old Diamond District houses thousands of diamond traders, cutters and polishers. Antwerp’s Flemish Renaissance architecture is typified by the Grote Markt, a central square in the old town. At the 17th-century Rubens House, period rooms display works by the Flemish Baroque painter Peter Paul Rubens.",
+                "image": "belgium-antwerp.jpeg",
+                "lat": "@51.2603015,4.2176364"
+            },
+            {
+                "country": "Belgium",
+                "city": "Brussels",
+                "subtitle": "City in Belgium",
+                "path": "belgium-brussels",
+                "description": "Brussels, officially the Brussels-Capital Region, is a region of Belgium comprising 19 municipalities, including the City of Brussels, which is the capital of Belgium. Wikipedia",
+                "image": "belgium-brussels.jpeg",
+                "lat": "@50.8386161,4.2233213"
+            },
+            {
+                "country": "Bhutan",
+                "city": "Thimphu",
+                "subtitle": "Capital of Bhutan",
+                "path": "bhutan-thimphu",
+                "description": "Thimphu, Bhutan’s capital, occupies a valley in the country’s western interior. In addition to being the government seat, the city is known for its Buddhist sites. The massive Tashichho Dzong is a fortified monastery and government palace with gold-leaf roofs. The Memorial Chorten, a whitewashed structure with a gold spire, is a revered Buddhist shrine dedicated to Bhutan’s third king, Jigme Dorji Wangchuck.",
+                "image": "bhutan-thimphu.jpeg",
+                "lat": "@27.4793845,89.5683546"
+            },
+            {
+                "country": "Brazil",
+                "city": "Riodejaneiro",
+                "subtitle": "Municipality in Brazil",
+                "path": "brazil-riodejaneiro",
+                "description": "Rio de Janeiro is a huge seaside city in Brazil, famed for its Copacabana and Ipanema beaches, 38m Christ the Redeemer statue atop Mount Corcovado and for Sugarloaf Mountain, a granite peak with cable cars to its summit. The city is also known for its sprawling favelas (shanty towns). Its raucous Carnaval festival, featuring parade floats, flamboyant costumes and samba dancers, is considered the world’s largest.",
+                "image": "brazil-riodejaneiro.jpeg",
+                "lat": "@-22.913885,-43.7261816"
+            },
+            {
+                "country": "Brazil",
+                "city": "Salvador",
+                "subtitle": "City in Brazil",
+                "path": "brazil-salvador",
+                "description": "Salvador, the capital of Brazil’s northeastern state of Bahia, is known for its Portuguese colonial architecture, Afro-Brazilian culture and a tropical coastline. The Pelourinho neighborhood is its historic heart, with cobblestone alleys opening onto large squares, colorful buildings and baroque churches such as São Francisco, featuring gilt woodwork.",
+                "image": "brazil-salvador.jpeg",
+                "lat": "@-12.8754343,-38.6417391"
+            },
+            {
+                "country": "Canada",
+                "city": "Montreal",
+                "subtitle": "Municipality in Canada",
+                "path": "canada-montreal",
+                "description": "Montréal is the largest city in Canada's Québec province. It’s set on an island in the Saint Lawrence River and named after Mt. Royal, the triple-peaked hill at its heart. Its boroughs, many of which were once independent cities, include neighbourhoods ranging from cobblestoned, French colonial Vieux-Montréal – with the Gothic Revival Notre-Dame Basilica at its centre – to bohemian Plateau.",
+                "image": "canada-montreal.jpeg",
+                "lat": "@45.5579564,-73.8703871"
+            },
+            {
+                "country": "Canada",
+                "city": "Ottawa",
+                "subtitle": "Capital of Canada",
+                "path": "canada-ottawa",
+                "description": "Ottawa is Canada’s capital, in the east of southern Ontario, near the city of Montréal and the U.S. border. Sitting on the Ottawa River, it has at its centre Parliament Hill, with grand Victorian architecture and museums such as the National Gallery of Canada, with noted collections of indigenous and other Canadian art. The park-lined Rideau Canal is filled with boats in summer and ice-skaters in winter.",
+                "image": "canada-ottawa.jpeg",
+                "lat": "@45.249814,-76.080444"
+            },
+            {
+                "country": "Canada",
+                "city": "Quebeccity",
+                "subtitle": "City in Canada",
+                "path": "canada-quebeccity",
+                "description": "Québec City sits on the Saint Lawrence River in Canada's mostly French-speaking Québec province. Dating to 1608, it has a fortified colonial core, Vieux-Québec and Place Royale, with stone buildings and narrow streets. This area is the site of the towering Château Frontenac Hotel and imposing Citadelle of Québec. The Petit Champlain district’s cobblestone streets are lined with bistros and boutiques.",
+                "image": "canada-quebeccity.jpeg",
+                "lat": "@46.856283,-71.4817769"
+            },
+            {
+                "country": "Canada",
+                "city": "Vancouver",
+                "subtitle": "City in Canada",
+                "path": "canada-vancouver",
+                "description": "Vancouver, a bustling west coast seaport in British Columbia, is among Canada’s densest, most ethnically diverse cities. A popular filming location, it’s surrounded by mountains, and also has thriving art, theatre and music scenes. Vancouver Art Gallery is known for its works by regional artists, while the Museum of Anthropology houses preeminent First Nations collections.",
+                "image": "canada-vancouver.jpeg",
+                "lat": "@49.2577143,-123.1939439"
+            },
+            {
+                "country": "Chile",
+                "city": "Santiago",
+                "subtitle": "Capital of Chile",
+                "path": "chile-santiago",
+                "description": "Santiago, Chile’s capital and largest city, sits in a valley surrounded by the snow-capped Andes and the Chilean Coast Range. Plaza de Armas, the grand heart of the city’s old colonial core, is home to 2 neoclassical landmarks: the 1808 Palacio de la Real Audiencia, housing the National History Museum, and the 18th-century Metropolitan Cathedral. La Chascona is the home-turned-museum of poet Pablo Neruda.",
+                "image": "chile-santiago.jpeg",
+                "lat": "@-33.4724727,-70.9100258"
+            },
+            {
+                "country": "China",
+                "city": "Beijing",
+                "subtitle": "Capital of China",
+                "path": "china-beijing",
+                "description": "Beijing, China’s sprawling capital, has history stretching back 3 millennia. Yet it’s known as much for modern architecture as its ancient sites such as the grand Forbidden City complex, the imperial palace during the Ming and Qing dynasties. Nearby, the massive Tiananmen Square pedestrian plaza is the site of Mao Zedong’s mausoleum and the National Museum of China, displaying a vast collection of cultural relics.",
+                "image": "china-beijing.jpeg",
+                "lat": "@39.9385466,116.1172682"
+            },
+            {
+                "country": "China",
+                "city": "Shanghai",
+                "subtitle": "Municipality in China",
+                "path": "china-shanghai",
+                "description": "Shanghai, on China’s central coast, is the country's biggest city and a global financial hub. Its heart is the Bund, a famed waterfront promenade lined with colonial-era buildings. Across the Huangpu River rises the Pudong district’s futuristic skyline, including 632m Shanghai Tower and the Oriental Pearl TV Tower, with distinctive pink spheres. Sprawling Yu Garden has traditional pavilions, towers and ponds.",
+                "image": "china-shanghai.jpeg",
+                "lat": "@31.2231337,120.9162718"
+            },
+            {
+                "country": "China",
+                "city": "Shenzhen",
+                "subtitle": "City in China",
+                "path": "china-shenzhen",
+                "description": "Shenzhen, in southeastern China, is a modern metropolis that links Hong Kong to China’s mainland. It's known for its shopping destinations, including Luohu Commercial City, a massive mall with a vast array of wares, from tailors’ custom clothing to faux designer bags. The city also features contemporary buildings, such as the 600m-tall skyscraper Ping An International Finance Centre, and a number of amusement parks.",
+                "image": "china-shenzhen.jpeg",
+                "lat": "@22.5549176,113.7736792,10z"
+            },
+            {
+                "country": "Cuba",
+                "city": "Havana",
+                "subtitle": "Capital of Cuba",
+                "path": "cuba-havana",
+                "description": "Havana is Cuba’s capital city. Spanish colonial architecture in its 16th-century Old Havana core includes the Castillo de la Real Fuerza, a fort and maritime museum. The National Capitol Building is an iconic 1920s landmark. Also in Old Havana is the baroque Catedral de San Cristóbal and Plaza Vieja, whose buildings reflect the city’s vibrant architectural mix.",
+                "image": "cuba-havana.jpeg",
+                "lat": "@23.0506249,-82.4730897"
+            },
+            {
+                "country": "Cuba",
+                "city": "Santaclara",
+                "subtitle": "City in California",
+                "path": "cuba-santaclara",
+                "description": "Santa Clara is a city near San Jose, in California's Silicon Valley. Many tech companies are headquartered here. The Intel Museum has exhibits about technological milestones, like the making of the silicon chip. California's Great America amusement park is known for its thrill rides. San Francisco’s professional football team, the 49ers, play at Levi’s Stadium. Local artwork is featured at the Triton Museum of Art.",
+                "image": "cuba-santaclara.jpeg",
+                "lat": "@37.3708698,-122.037593"
+            },
+            {
+                "country": "Cyprus",
+                "city": "Paphos",
+                "subtitle": "City in Cyprus",
+                "path": "cyprus-paphos",
+                "description": "Paphos is a city on the southwest coast of the Mediterranean island of Cyprus. Inhabited since Neolithic times, it has several sites relating to the cult of goddess Aphrodite, whose mythical birthplace was at Old Paphos (Kouklia). New Paphos is the modern city that incorporates the harbor, and the ancient ruins of tombs, fortresses, theaters and villas at Paphos Archaeological Park.",
+                "image": "cyprus-paphos.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Denmark",
+                "city": "Copenhagen",
+                "subtitle": "Capital of Denmark",
+                "path": "denmark-copenhagen",
+                "description": "Copenhagen, Denmark’s capital, sits on the coastal islands of Zealand and Amager. It’s linked to Malmo in southern Sweden by the Öresund Bridge. Indre By, the city's historic center, contains Frederiksstaden, an 18th-century rococo district, home to the royal family’s Amalienborg Palace. Nearby is Christiansborg Palace and the Renaissance-era Rosenborg Castle, surrounded by gardens and home to the crown jewels.",
+                "image": "denmark-copenhagen.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Egypt",
+                "city": "Alexandria",
+                "subtitle": "City in Egypt",
+                "path": "egypt-alexandria",
+                "description": "Alexandria is a Mediterranean port city in Egypt. During the Hellenistic period, it was home to a lighthouse ranking among the Seven Wonders of the Ancient World as well as a storied library. Today the library is reincarnated in the disc-shaped, ultramodern Bibliotheca Alexandrina. The city also has Greco-Roman landmarks, old-world cafes and sandy beaches. Its 15th-century seafront Qaitbay Citadel is now a museum.",
+                "image": "egypt-alexandria.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Egypt",
+                "city": "Cairo",
+                "subtitle": "Capital of Egypt",
+                "path": "egypt-cairo",
+                "description": "Cairo, Egypt’s sprawling capital, is set on the Nile River. At its heart is Tahrir Square and the vast Egyptian Museum, a trove of antiquities including royal mummies and gilded King Tutankhamun artifacts. Nearby, Giza is the site of the iconic pyramids and Great Sphinx, dating to the 26th century BC. In Gezira Island’s leafy Zamalek district, 187m Cairo Tower affords panoramic city views.",
+                "image": "egypt-cairo.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Egypt",
+                "city": "Giza",
+                "subtitle": "City in Egypt",
+                "path": "egypt-giza",
+                "description": "Giza is an Egyptian city on the west bank of the Nile, near Cairo. The Giza Plateau is home to iconic Egyptian monuments, including 3 tall pyramids built as royal mausoleums around the 26th century B.C. The largest, the Great Pyramid, is King Khufu’s tomb. The Great Sphinx is a vast sculpture of a man’s head on a lion’s body. The Solar Boat Museum displays a restored cedar barge found buried near the Great Pyramid.",
+                "image": "egypt-giza.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Egypt",
+                "city": "Sharmelsheikh",
+                "subtitle": "City in Egypt",
+                "path": "egypt-sharmelsheikh",
+                "description": "Sharm el-Sheikh is an Egyptian resort town between the desert of the Sinai Peninsula and the Red Sea. It's known for its sheltered sandy beaches, clear waters and coral reefs. Naama Bay, with a palm tree-lined promenade, is filled with bars and restaurants. Ras Muhammad National Park is a major diving destination, with marine life around the Shark and Yolanda reefs and the Thistlegorm wreck.",
+                "image": "egypt-sharmelsheikh.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Birmingham",
+                "subtitle": "City in England",
+                "path": "england-birmingham",
+                "description": "Birmingham is a major city in England’s West Midlands region, with multiple Industrial Revolution-era landmarks that speak to its 18th-century history as a manufacturing powerhouse. It’s also home to a network of canals, many of which radiate from Sherborne Wharf and are now lined with trendy cafes and bars. In the city centre, the Birmingham Museum and Art Gallery is known for pre-Raphaelite masterpieces.",
+                "image": "england-birmingham.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Bristol",
+                "subtitle": "",
+                "path": "england-bristol",
+                "description": "",
+                "image": "england-bristol.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Cambridge",
+                "subtitle": "City in England",
+                "path": "england-cambridge",
+                "description": "Cambridge is a city on the River Cam in eastern England, home to the prestigious University of Cambridge, dating to 1209. University colleges include King’s, famed for its choir and towering Gothic chapel, as well as Trinity, founded by Henry VIII, and St John’s, with its 16th-century Great Gate. University museums have exhibits on archaeology and anthropology, polar exploration, the history of science and zoology.",
+                "image": "england-cambridge.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Canterbury",
+                "subtitle": "City in England",
+                "path": "england-canterbury",
+                "description": "Canterbury, a cathedral city in southeast England, was a pilgrimage site in the Middle Ages. Ancient walls, originally built by the Romans, encircle its medieval centre with cobbled streets and timber-framed houses. Canterbury Cathedral, founded 597 A.D., is the headquarters of the Church of England and Anglican Communion, incorporating Gothic and Romanesque elements in its stone carvings and stained-glass windows.",
+                "image": "england-canterbury.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Charlestown",
+                "subtitle": "Neighborhood in Boston, Massachusetts",
+                "path": "england-charlestown",
+                "description": "Charlestown is a historic waterfront neighborhood with Irish-American roots. The Freedom Trail climbs streets lined with brick townhouses and clapboard triple-decker homes to the Bunker Hill Monument, site of a key Revolutionary War battle. The 1797 U.S.S. Constitution warship and its museum are in the Charlestown Navy Yard. Main Street’s traditional pubs and stylish restaurants draw young professionals and families.",
+                "image": "england-charlestown.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Leeds",
+                "subtitle": "City in England",
+                "path": "england-leeds",
+                "description": "Leeds is a city in the northern English county of Yorkshire. On the south bank of the River Aire, the Royal Armouries houses the national collection of arms and artillery. Across the river, the redeveloped industrial area around Call Lane is famed for bars and live music venues under converted railway arches. Leeds Kirkgate Market features hundreds of indoor and outdoor stalls.",
+                "image": "england-leeds.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Leicester",
+                "subtitle": "City in England",
+                "path": "england-leicester",
+                "description": "Leicester is a city in England’s East Midlands region. Leicester Cathedral, where Richard III was reinterred in 2015, has stood at the city’s heart for over 900 years. Close by, the King Richard III Visitor Centre tells the story of the king’s life and death and displays his original burial site. The ruins of Leicester Castle, where Richard III spent some of his last days, lie in Castle Gardens, near the River Soar.",
+                "image": "england-leicester.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Liverpool",
+                "subtitle": "City in England",
+                "path": "england-liverpool",
+                "description": "Liverpool is a maritime city in northwest England, where the River Mersey meets the Irish Sea. A key trade and migration port from the 18th to the early 20th centuries, it's also, famously, the hometown of The Beatles. Ferries cruise the waterfront, where the iconic mercantile buildings known as the Three Graces – Royal Liver Building, Cunard Building and Port of Liverpool Building – stand on the Pier Head.",
+                "image": "england-liverpool.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "London",
+                "subtitle": "Capital of England",
+                "path": "england-london",
+                "description": "London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city.",
+                "image": "england-london.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Manchester",
+                "subtitle": "City in England",
+                "path": "england-manchester",
+                "description": "Manchester is a major city in the northwest of England with a rich industrial heritage. The Castlefield conservation area’s 18th-century canal system recalls the city’s days as a textile powerhouse, and visitors can trace this history at the interactive Museum of Science & Industry. The revitalised Salford Quays dockyards now house the Daniel Libeskind-designed Imperial War Museum North and the Lowry cultural centre.",
+                "image": "england-manchester.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Nottingham",
+                "subtitle": "City in England",
+                "path": "england-nottingham",
+                "description": "Nottingham is a city in central England’s Midlands region. It’s known for its role in the Robin Hood legend and for the hilltop Nottingham Castle Museum and Art Gallery, rebuilt many times since the medieval era. In the Lace Market area, once the centre of the world’s lace industry, the Galleries of Justice Museum has crime-related exhibits. Wollaton Hall is an ornate Elizabethan mansion with gardens and a deer park.",
+                "image": "england-nottingham.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Oxford",
+                "subtitle": "",
+                "path": "england-oxford",
+                "description": "City in England",
+                "image": "england-oxford.jpeg",
+                "lat": "Oxford, a city in central southern England, revolves around its prestigious university, established in the 12th century. The architecture of its 38 colleges in the city’s medieval center led poet Matthew Arnold to nickname it the 'City of Dreaming Spires'. University College and Magdalen College are off the High Street, which runs from Carfax Tower (with city views) to the Botanic Garden on the River Cherwell.            "
+            },
+            {
+                "country": "England",
+                "city": "Plymouth",
+                "subtitle": "City in England",
+                "path": "england-plymouth",
+                "description": "Plymouth is a port city in Devon, southwest England. It’s known for its maritime heritage and historic Barbican district with narrow, cobbled streets. Sutton Harbour is home to the National Marine Aquarium, where sharks and rays glide in a deep tank. Also in the harbour are several marinas and a fish market, the Plymouth Fisheries. The Mayflower Steps are where the Pilgrim Fathers set sail for the New World in 1620.",
+                "image": "england-plymouth.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Portsmouth",
+                "subtitle": "City in England",
+                "path": "england-portsmouth",
+                "description": "Portsmouth is a port city and naval base on England’s south coast, mostly spread across Portsea Island. It’s known for its maritime heritage and Portsmouth Historic Dockyard. The dockyard is home to the interactive National Museum of the Royal Navy, the wooden warship HMS Victory, where Nelson died in the Battle of Trafalgar, and HMS Warrior 1860. The Tudor ship Mary Rose is also conserved in a dockyard museum.",
+                "image": "england-portsmouth.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Rochester",
+                "subtitle": "City in New York",
+                "path": "england-rochester",
+                "description": "Rochester is a city on Lake Ontario, in New York State. Old industrial buildings cluster near the Genesee River’s High Falls. A vast collection of toys and dolls forms the core of the Strong National Museum of Play. The George Eastman Museum, on the early-1900s estate of the Kodak founder, has photography exhibits, film archives and gardens. Rochester Museum & Science Center has hands-on displays and a planetarium.",
+                "image": "england-rochester.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Southampton",
+                "subtitle": "City in England",
+                "path": "england-southampton",
+                "description": "Southampton is a port city on England’s south coast. It’s home to the SeaCity Museum, with an interactive model of the Titanic, which departed from Southampton in 1912. Nearby, Southampton City Art Gallery specialises in modern British art. Solent Sky Museum features vintage aircraft like the iconic Spitfire. Tudor House & Garden displays artifacts covering over 800 years of history, including a penny-farthing bike.",
+                "image": "england-southampton.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Winchester",
+                "subtitle": "City in England",
+                "path": "england-winchester",
+                "description": "Winchester is a city in the county of Hampshire, on the edge of England's South Downs National Park. It’s known for medieval Winchester Cathedral, with its 17th-century Morley Library, the Winchester Bible and a Norman crypt. Nearby are the ruins of Wolvesey Castle and the Winchester City Mill, a working 18th-century corn mill. The Great Hall of Winchester Castle houses the medieval round table linked to King Arthur.",
+                "image": "england-winchester.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "Windsor",
+                "subtitle": "Town in England",
+                "path": "england-windsor",
+                "description": "Windsor is a town on the River Thames in southeast England, just west of London. It’s home to Windsor Castle, a residence of the British Royal Family. Built by William The Conqueror in the 11th century, the castle was extensively remodelled by subsequent monarchs. Public tours take in the State Apartments, which contain opulent furnishings, and paintings from the royal art collection.",
+                "image": "england-windsor.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "England",
+                "city": "York",
+                "subtitle": "City in England",
+                "path": "england-york",
+                "description": "York is a walled city in northeast England that was founded by the ancient Romans. Its huge 13th-century Gothic cathedral, York Minster, has medieval stained glass and 2 functioning bell towers. The City Walls form a walkway on both sides of the River Ouse. The Monk Bar gate houses an exhibition tracing the life of 15th-century Plantagenet King Richard III.",
+                "image": "england-york.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Finland",
+                "city": "Helsinki",
+                "subtitle": "Capital of Finland",
+                "path": "finland-helsinki",
+                "description": "Helsinki, Finland’s southern capital, sits on a peninsula in the Gulf of Finland. Its central avenue, Mannerheimintie, is flanked by institutions including the National Museum, tracing Finnish history from the Stone Age to the present. Also on Mannerheimintie are the imposing Parliament House and Kiasma, a contemporary art museum. Ornate red-brick Uspenski Cathedral overlooks a harbor.",
+                "image": "finland-helsinki.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "France",
+                "city": "Cannes",
+                "subtitle": "City in France",
+                "path": "france-cannes",
+                "description": "Cannes, a resort town on the French Riviera, is famed for its international film festival. Its Boulevard de la Croisette, curving along the coast, is lined with sandy beaches, upmarket boutiques and palatial hotels. It’s also home to the Palais des Festivals et des Congrès, a modern building complete with red carpet and Allée des Étoiles – Cannes’ walk of fame.",
+                "image": "france-cannes.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "France",
+                "city": "Nice",
+                "subtitle": "City in France",
+                "path": "france-nice",
+                "description": "Nice, capital of the Alpes-Maritimes department on the French Riviera, sits on the pebbly shores of the Baie des Anges. Founded by the Greeks and later a retreat for 19th-century European elite, the city has also long attracted artists. Former resident Henri Matisse is honored with a career-spanning collection of paintings at Musée Matisse. Musée Marc Chagall features some of its namesake's major religious works.",
+                "image": "france-nice.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "France",
+                "city": "Paris",
+                "subtitle": "Capital of France",
+                "path": "france-paris",
+                "description": "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré.",
+                "image": "france-paris.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Germany",
+                "city": "Berlin",
+                "subtitle": "Capital of Germany",
+                "path": "germany-berlin",
+                "description": "Berlin, Germany’s capital, dates to the 13th century. Reminders of the city's turbulent 20th-century history include its Holocaust memorial and the Berlin Wall's graffitied remains. Divided during the Cold War, its 18th-century Brandenburg Gate has become a symbol of reunification. The city's also known for its art scene and modern landmarks like the gold-colored, swoop-roofed Berliner Philharmonie, built in 1963.",
+                "image": "germany-berlin.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Germany",
+                "city": "Bonn",
+                "subtitle": "City in Germany",
+                "path": "germany-bonn",
+                "description": "Bonn is a city in western Germany straddling the Rhine river. It’s known for the central Beethoven House, a memorial and museum honoring the composer’s birthplace. Nearby are Bonn Minster, a church with a Romanesque cloister and Gothic elements, the pink-and-gold Altes Rathaus, or old city hall, and Poppelsdorf Palace housing a mineralogical museum. To the south is Haus der Geschichte with post-WWII history exhibits.",
+                "image": "germany-bonn.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Germany",
+                "city": "Duesseldorf",
+                "subtitle": "City in Germany",
+                "path": "germany-duesseldorf",
+                "description": "Düsseldorf is a city in western Germany known for its fashion industry and art scene. It's divided by the Rhine River, with its Altstadt (Old Town) on the east bank and modern commercial areas to the west. In the Altstadt, St. Lambertus Church and Schlossturm (Castle Tower) both date to the 13th century. Streets such as Königsallee and Schadowstrasse are lined with boutique shops.",
+                "image": "germany-duesseldorf.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Germany",
+                "city": "Frankfurt",
+                "subtitle": "City in Germany",
+                "path": "germany-frankfurt",
+                "description": "Frankfurt, a central German city on the river Main, is a major financial hub that's home to the European Central Bank. It's the birthplace of famed writer Johann Wolfgang von Goethe, whose former home is now the Goethe House Museum. Like much of the city, it was damaged during World War II and later rebuilt. The reconstructed Altstadt (Old Town) is the site of Römerberg, a square that hosts an annual Christmas market.",
+                "image": "germany-frankfurt.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Germany",
+                "city": "Hamburg",
+                "subtitle": "City in Germany",
+                "path": "germany-hamburg",
+                "description": "Hamburg, a major port city in northern Germany, is connected to the North Sea by the Elbe River. It's crossed by hundreds of canals, and also contains large areas of parkland. Near its core, Inner Alster lake is dotted with boats and surrounded by cafes. The city's central Jungfernstieg boulevard connects the Neustadt (new town) with the Altstadt (old town), home to landmarks like 18th-century St. Michael’s Church.",
+                "image": "germany-hamburg.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Germany",
+                "city": "Munich",
+                "subtitle": "City in Germany",
+                "path": "germany-munich",
+                "description": "Munich, Bavaria’s capital, is home to centuries-old buildings and numerous museums. The city is known for its annual Oktoberfest celebration and its beer halls, including the famed Hofbräuhaus, founded in 1589. In the Altstadt (Old Town), central Marienplatz square contains landmarks such as Neo-Gothic Neues Rathaus (town hall), with a popular glockenspiel show that chimes and reenacts stories from the 16th century.",
+                "image": "germany-munich.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Greece",
+                "city": "Athens",
+                "subtitle": "Capital of Greece",
+                "path": "greece-athens",
+                "description": "Athens is the capital of Greece. It was also at the heart of Ancient Greece, a powerful civilization and empire. The city is still dominated by 5th-century BC landmarks, including the Acropolis, a hilltop citadel topped with ancient buildings like the colonnaded Parthenon temple. The Acropolis Museum, along with the National Archaeological Museum, preserves sculptures, vases, jewelry and more from Ancient Greece.",
+                "image": "greece-athens.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Greece",
+                "city": "Sparta",
+                "subtitle": "State of Greece",
+                "path": "greece-sparta",
+                "description": "Sparta was a prominent city-state in ancient Greece. In antiquity the city-state was known as Lacedaemon, while the name Sparta referred to its main settlement on the banks of the Eurotas River in Laconia, in south-eastern Peloponnese. Wikipedia",
+                "image": "greece-sparta.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Hongkong",
+                "city": "Hongkong",
+                "subtitle": "Chinese special administrative region",
+                "path": "hongkong-hongkong",
+                "description": "Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a special administrative region on the eastern side of the Pearl River estuary in southern China. Wikipedia",
+                "image": "hongkong-hongkong.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Hungary",
+                "city": "Budapest",
+                "subtitle": "Capital of Hungary",
+                "path": "hungary-budapest",
+                "description": "Budapest, Hungary’s capital, is bisected by the River Danube. Its 19th-century Chain Bridge connects the hilly Buda district with flat Pest. A funicular runs up Castle Hill to Buda’s Old Town, where the Budapest History Museum traces city life from Roman times onward. Trinity Square is home to 13th-century Matthias Church and the turrets of the Fishermen’s Bastion, which offer sweeping views.",
+                "image": "hungary-budapest.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Iceland",
+                "city": "Reykjavik",
+                "subtitle": "Capital of Iceland",
+                "path": "iceland-reykjavik",
+                "description": "Reykjavik, on the coast of Iceland, is the country's capital and largest city. It's home to the National and Saga museums, tracing Iceland’s Viking history. The striking concrete Hallgrimskirkja church and rotating Perlan glass dome offer sweeping views of the sea and nearby hills. Exemplifying the island’s volcanic activity is the geothermal Blue Lagoon spa, near the village of Grindavik.",
+                "image": "iceland-reykjavik.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "India",
+                "city": "Bangalore",
+                "subtitle": "Silicon city of India",
+                "path": "india-bangalore",
+                "description": "Bengaluru (also called Bangalore) is the capital of India's southern Karnataka state. The center of India's high-tech industry, the city is also known for its parks and nightlife. By Cubbon Park, Vidhana Soudha is a Neo-Dravidian legislative building. Former royal residences include 19th-century Bangalore Palace, modeled after England’s Windsor Castle, and Tipu Sultan’s Summer Palace, an 18th-century teak structure.",
+                "image": "india-bangalore.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "India",
+                "city": "Delhi",
+                "subtitle": "Indian Capital Territory",
+                "path": "india-delhi",
+                "description": "Delhi, India’s capital territory, is a massive metropolitan area in the country’s north. In Old Delhi, a neighborhood dating to the 1600s, stands the imposing Mughal-era Red Fort, a symbol of India, and the sprawling Jama Masjid mosque, whose courtyard accommodates 25,000 people. Nearby is Chandni Chowk, a vibrant bazaar filled with food carts, sweets shops and spice stalls.",
+                "image": "india-delhi.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "India",
+                "city": "Kochi",
+                "subtitle": "City in Kerala",
+                "path": "india-kochi",
+                "description": "Kochi (also known as Cochin) is a city in southwest India's coastal Kerala state. It has been a port since 1341, when a flood carved out its harbor and opened it to Arab, Chinese and European merchants. Sites reflecting those influences include Fort Kochi, a settlement with tiled colonial bungalows and diverse houses of worship. Cantilevered Chinese fishing nets, typical of Kochi, have been in use for centuries.",
+                "image": "india-kochi.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "India",
+                "city": "Mumbai",
+                "subtitle": "City in Maharashtra",
+                "path": "india-mumbai",
+                "description": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry.",
+                "image": "india-mumbai.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Indonesia",
+                "city": "Jakarta",
+                "subtitle": "Capital of Indonesia",
+                "path": "indonesia-jakarta",
+                "description": "Jakarta, Indonesia's massive capital, sits on the northwest coast of the island of Java. A historic mix of cultures – Javanese, Malay, Chinese, Arab, Indian and European – has influenced its architecture, language and cuisine. The old town, Kota Tua, is home to Dutch colonial buildings, Glodok (Jakarta’s Chinatown) and the old port of Sunda Kelapa, where traditional wooden schooners dock.",
+                "image": "indonesia-jakarta.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Iran",
+                "city": "Tehran",
+                "subtitle": "Capital of Iran",
+                "path": "iran-tehran",
+                "description": "Tehran is the capital of Iran, in the north of the country. Its central Golestan Palace complex, with its ornate rooms and marble throne, was the seat of power of the Qajar dynasty. The National Jewelry Museum holds many of the Qajar monarchs’ jewels, while the National Museum of Iran has artifacts dating back to Paleolithic times. The Milad Tower offers panoramic views over the city.",
+                "image": "iran-tehran.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Ireland",
+                "city": "Dublin",
+                "subtitle": "Capital of the Republic of Ireland",
+                "path": "ireland-dublin",
+                "description": "Dublin, capital of the Republic of Ireland, is on Ireland’s east coast at the mouth of the River Liffey. Its historic buildings include Dublin Castle, dating to the 13th century, and imposing St Patrick’s Cathedral, founded in 1191. City parks include landscaped St Stephen’s Green and huge Phoenix Park, containing Dublin Zoo. The National Museum of Ireland explores Irish heritage and culture.",
+                "image": "ireland-dublin.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Israel",
+                "city": "Haifa",
+                "subtitle": "City in Israel",
+                "path": "israel-haifa",
+                "description": "Haifa is a northern Israeli port city built in tiers extending from the Mediterranean up the north slope of Mount Carmel. The city’s most iconic sites are the immaculately landscaped terraces of the Bahá'í Gardens and, at their heart, the gold-domed Shrine of the Báb. At the foot of the gardens lies the German Colony, with shops, galleries and restaurants in 19th-century buildings.",
+                "image": "israel-haifa.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Israel",
+                "city": "Jerusalem",
+                "subtitle": "Capital of Israel",
+                "path": "israel-jerusalem",
+                "description": "Jerusalem is a city in the Middle East, located on a plateau in the Judaean Mountains between the Mediterranean and the Dead Sea. It is one of the oldest cities in the world, and is considered holy to the three major Abrahamic religions—Judaism, Christianity, and Islam. Wikipedia",
+                "image": "israel-jerusalem.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Israel",
+                "city": "Telaviv",
+                "subtitle": "City in Israel",
+                "path": "israel-telaviv",
+                "description": "Tel Aviv, a city on Israel’s Mediterranean coast, is marked by stark 1930s Bauhaus buildings, thousands of which are clustered in the White City architectural area. Museums include Beit Hatfutsot, whose multimedia exhibits illustrate the history of Jewish communities worldwide. The Eretz Israel Museum covers the country’s archaeology, folklore and crafts, and features an on-site excavation of 12th-century-B.C. ruins.",
+                "image": "israel-telaviv.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Italy",
+                "city": "Florence",
+                "subtitle": "City in Italy",
+                "path": "italy-florence",
+                "description": "Florence, capital of Italy’s Tuscany region, is home to many masterpieces of Renaissance art and architecture. One of its most iconic sights is the Duomo, a cathedral with a terracotta-tiled dome engineered by Brunelleschi and a bell tower by Giotto. The Galleria dell'Accademia displays Michelangelo’s “David” sculpture. The Uffizi Gallery exhibits Botticelli’s “The Birth of Venus” and da Vinci’s “Annunciation.”",
+                "image": "italy-florence.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Italy",
+                "city": "Milan",
+                "subtitle": "City in Italy",
+                "path": "italy-milan",
+                "description": "Milan, a metropolis in Italy's northern Lombardy region, is a global capital of fashion and design. Home to the national stock exchange, it’s a financial hub also known for its high-end restaurants and shops. The Gothic Duomo di Milano cathedral and the Santa Maria delle Grazie convent, housing Leonardo da Vinci’s mural “The Last Supper,” testify to centuries of art and culture.",
+                "image": "italy-milan.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Italy",
+                "city": "Pompei",
+                "subtitle": "City in Italy",
+                "path": "italy-pompei",
+                "description": "Pompei is a city in southern Italy’s Campania region overlooked by the active volcano at Vesuvius. It’s known for its ancient city, Pompeii, which was buried by the 79 A.D. eruption of Mount Vesuvius. Ruins here include the frescoed Villa of the Mysteries and the city's amphitheater. In town, the Catholic pilgrimage site of the Sanctuary of the Madonna of the Rosary has mosaics and a grand cupola .",
+                "image": "italy-pompei.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Italy",
+                "city": "Rome",
+                "subtitle": "Capital of Italy",
+                "path": "italy-rome",
+                "description": "Rome, Italy’s capital, is a sprawling, cosmopolitan city with nearly 3,000 years of globally influential art, architecture and culture on display. Ancient ruins such as the Forum and the Colosseum evoke the power of the former Roman Empire. Vatican City, headquarters of the Roman Catholic Church, has St. Peter’s Basilica and the Vatican Museums, which house masterpieces such as Michelangelo’s Sistine Chapel frescoes.",
+                "image": "italy-rome.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Italy",
+                "city": "Venice",
+                "subtitle": "City in Italy",
+                "path": "italy-venice",
+                "description": "Venice, the capital of northern Italy’s Veneto region, is built on more than 100 small islands in a lagoon in the Adriatic Sea. It has no roads, just canals – including the Grand Canal thoroughfare – lined with Renaissance and Gothic palaces. The central square, Piazza San Marco, contains St. Mark’s Basilica, which is tiled with Byzantine mosaics, and the Campanile bell tower offering views of the city’s red roofs.",
+                "image": "italy-venice.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Japan",
+                "city": "Hiroshima",
+                "subtitle": "City in Japan",
+                "path": "japan-hiroshima",
+                "description": "Hiroshima, a modern city on Japan’s Honshu Island, was largely destroyed by an atomic bomb during World War II. Today, Hiroshima Peace Memorial Park commemorates the 1945 event. In the park are the ruins of Genbaku Dome, one of the few buildings that was left standing near ground zero. Other prominent sites include Shukkei-en, a formal Japanese garden, and Hiroshima Castle, a fortress surrounded by a moat and a park.",
+                "image": "japan-hiroshima.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Japan",
+                "city": "Osaka",
+                "subtitle": "City in Japan",
+                "path": "japan-osaka",
+                "description": "Osaka is a large port city and commercial center on the Japanese island of Honshu. It's known for its modern architecture, nightlife and hearty street food. The 16th-century shogunate Osaka Castle, which has undergone several restorations, is its main historical landmark. It's surrounded by a moat and park with plum, peach and cherry-blossom trees. Sumiyoshi-taisha is among Japan’s oldest Shinto shrines.",
+                "image": "japan-osaka.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Japan",
+                "city": "Tokyo",
+                "subtitle": "Capital of Japan",
+                "path": "japan-tokyo",
+                "description": "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods. The Imperial Palace sits amid large public gardens. The city's many museums offer exhibits ranging from classical art (in the Tokyo National Museum) to a reconstructed kabuki theater (in the Edo-Tokyo Museum).",
+                "image": "japan-tokyo.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Japan",
+                "city": "Yokohama",
+                "subtitle": "City in Japan",
+                "path": "japan-yokohama",
+                "description": "Yokohama, a Japanese city south of Tokyo, was one of the first Japanese ports opened to foreign trade, in 1859. It contains a large Chinatown with hundreds of Chinese restaurants and shops. It’s also known for Sankei-en Garden, a botanical park containing preserved Japanese residences from different eras, and the seaside Minato Mirai district, site of the 296m Landmark Tower.",
+                "image": "japan-yokohama.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Jordan",
+                "city": "Amman",
+                "subtitle": "Capital of Jordan",
+                "path": "jordan-amman",
+                "description": "Amman, the capital of Jordan, is a modern city with numerous ancient ruins. Atop Jabal al-Qala’a hill, the historic Citadel includes the pillars of the Roman Temple of Hercules and the 8th-century Umayyad Palace complex, known for its grand dome. Built into a different downtown hillside, the Roman Theater is a 6,000-capacity, 2nd-century stone amphitheater offering occasional events.",
+                "image": "jordan-amman.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Kenya",
+                "city": "Nairobi",
+                "subtitle": "Capital of Kenya",
+                "path": "kenya-nairobi",
+                "description": "Nairobi is Kenya’s capital city. In addition to its urban core, the city has Nairobi National Park, a large game reserve known for breeding endangered black rhinos and home to giraffes, zebras and lions. Next to it is a well-regarded elephant orphanage operated by the David Sheldrick Wildlife Trust. Nairobi is also often used as a jumping-off point for safari trips elsewhere in Kenya.",
+                "image": "kenya-nairobi.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Kuwait",
+                "city": "Kuwaitcity",
+                "subtitle": "Capital of Kuwait ",
+                "path": "kuwait-kuwaitcity",
+                "description": "Kuwait City is the capital of the Arabian Gulf nation of Kuwait. At its heart sits the Grand Mosque, known for its vast interior and chandeliered dome. On the waterfront, the late-19th-century Seif Palace features a neo-Arabic watchtower and manicured gardens. Nearby, the Kuwait National Museum explores history and features science shows at its planetarium. Souk Al-Mubarakiya is a vast food and handicraft market.",
+                "image": "kuwait-kuwaitcity.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Lebanon",
+                "city": "Beirut",
+                "subtitle": "Capital of Lebanon",
+                "path": "lebanon-beirut",
+                "description": "Beirut is the capital and largest city of Lebanon. No recent population census has been conducted, but 2007 estimates ranged from slightly more than 1 million to 2.2 million as part of Greater Beirut. Wikipedia",
+                "image": "lebanon-beirut.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Malaysia",
+                "city": "Kualalumpur",
+                "subtitle": "Capital of Malaysia",
+                "path": "malaysia-kualalumpur",
+                "description": "Kuala Lumpur is the capital of Malaysia. Its modern skyline is dominated by the 451m-tall Petronas Twin Towers, a pair of glass-and-steel-clad skyscrapers with Islamic motifs. The towers also offer a public skybridge and observation deck. The city is also home to British colonial-era landmarks such as the Kuala Lumpur Railway Station and the Sultan Abdul Samad Building.",
+                "image": "malaysia-kualalumpur.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Mauritius",
+                "city": "Portlouis",
+                "subtitle": "Capital of Mauritius",
+                "path": "mauritius-portlouis",
+                "description": "Port Louis is the capital city of Mauritius, in the Indian Ocean. It's known for its French colonial architecture and the 19th-century Champ de Mars horse-racing track. The Caudan Waterfront is a lively dining and shopping precinct. Nearby, vendors sell local produce and handicrafts at the huge Central Market. The Blue Penny Museum focuses on the island’s colonial and maritime history, along with its culture.",
+                "image": "mauritius-portlouis.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Mexico",
+                "city": "Mexicocity",
+                "subtitle": "Capital of Mexico",
+                "path": "mexico-mexicocity",
+                "description": "Mexico City is the densely populated, high-altitude capital of Mexico. It's known for its Templo Mayor (a 13th-century Aztec temple), the baroque Catedral Metropolitana de México of the Spanish conquistadors and the Palacio Nacional, which houses historic murals by Diego Rivera. All of these are situated in and around the Plaza de la Constitución, the massive main square also known as the Zócalo.",
+                "image": "mexico-mexicocity.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Nepal",
+                "city": "Kathmandu",
+                "subtitle": "Capital of Nepal",
+                "path": "nepal-kathmandu",
+                "description": "Kathmandu is the capital and largest city of Nepal, with a population of around 3 million. The Kathmandu Metropolitan area, which includes Lalitpur, Bhaktapur, Kirtipur, and a few other towns, has population of around 5-6 million people. Kathmandu is also the largest metropolis in the Himalayan Mountain region. Wikipedia",
+                "image": "nepal-kathmandu.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Netherlands",
+                "city": "Amsterdam",
+                "subtitle": "Capital of the Netherlands",
+                "path": "netherlands-amsterdam",
+                "description": "Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city’s 17th-century Golden Age. Its Museum District houses the Van Gogh Museum, works by Rembrandt and Vermeer at the Rijksmuseum, and modern art at the Stedelijk. Cycling is key to the city’s character, and there are numerous bike paths.",
+                "image": "netherlands-amsterdam.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Netherlands",
+                "city": "Rotterdam",
+                "subtitle": "City in the Netherlands",
+                "path": "netherlands-rotterdam",
+                "description": "Rotterdam is a major port city in the Dutch province of South Holland. The Maritime Museum's vintage ships and exhibits trace the city's seafaring history. The 17th-century Delfshaven neighborhood is home to canalside shopping and Pilgrim Fathers Church, where pilgrims worshiped before sailing to America. After being almost completely reconstructed following WWII, the city is now known for bold, modern architecture.",
+                "image": "netherlands-rotterdam.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Newzealand",
+                "city": "Auckland",
+                "subtitle": "City in New Zealand",
+                "path": "newzealand-auckland",
+                "description": "Auckland, based around 2 large harbours, is a major city in the north of New Zealand’s North Island. In the centre, the iconic Sky Tower has views of Viaduct Harbour, which is full of superyachts and lined with bars and cafes. Auckland Domain, the city’s oldest park, is based around an extinct volcano and home to the formal Wintergardens. Near Downtown, Mission Bay Beach has a seaside promenade.",
+                "image": "newzealand-auckland.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Newzealand",
+                "city": "Wellington",
+                "subtitle": "Capital of New Zealand",
+                "path": "newzealand-wellington",
+                "description": "Wellington, the capital of New Zealand, sits near the North Island’s southernmost point on the Cook Strait. A compact city, it encompasses a waterfront promenade, sandy beaches, a working harbour and colourful timber houses on surrounding hills. From Lambton Quay, the iconic red Wellington Cable Car heads to the Wellington Botanic Gardens. Strong winds through the Cook Strait give it the nickname 'Windy Wellington.'",
+                "image": "newzealand-wellington.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Northkorea",
+                "city": "Pyongyang",
+                "subtitle": "Capital of North Korea",
+                "path": "northkorea-pyongyang",
+                "description": "Pyongyang, P'yŏngyang or Pyeongyang, is the capital and largest city of North Korea. Pyongyang is located on the Taedong River about 109 kilometres upstream from its mouth on the Yellow Sea. According to the 2008 population census, it has a population of 3,255,288. Wikipedia",
+                "image": "northkorea-pyongyang.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Oman",
+                "city": "Muscat",
+                "subtitle": "Capital of Oman",
+                "path": "oman-muscat",
+                "description": "Muscat, Oman’s port capital, sits on the Gulf of Oman surrounded by mountains and desert. With history dating back to antiquity, it mixes high-rises and upscale shopping malls with clifftop landmarks such as the 16th-century Portuguese forts, Al Jalali and Mirani, looming over Muscat Harbor. Its modern, marble-clad Sultan Qaboos Grand Mosque, with 50m dome and prodigious Persian carpet, can accommodate 20,000 people.",
+                "image": "oman-muscat.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Pakistan",
+                "city": "Islamabad",
+                "subtitle": "Capital of Pakistan",
+                "path": "pakistan-islamabad",
+                "description": "Islamabad is the capital city of Pakistan, and is federally administered as part of the Islamabad Capital Territory. Built as a planned city in the 1960s to replace Karachi as Pakistan's capital, Islamabad is noted for its high standards of living, safety, and abundant greenery. Wikipedia",
+                "image": "pakistan-islamabad.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Pakistan",
+                "city": "Karachi",
+                "subtitle": "City in Pakistan",
+                "path": "pakistan-karachi",
+                "description": "Karachi is the capital of the Pakistani province of Sindh. It is the most populous city in Pakistan, and fifth-most-populous city proper in the world. Ranked as a beta-global city, the city is Pakistan's premier industrial and financial centre. Wikipedia",
+                "image": "pakistan-karachi.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Panama",
+                "city": "Panamacity",
+                "subtitle": "Capital of Panama",
+                "path": "panama-panamacity",
+                "description": "Panama City, the capital of Panama, is a modern city framed by the Pacific Ocean and man-made Panama Canal. Casco Viejo, its cobblestoned historic center, is famed for colonial-era landmarks like the neoclassical Palacio Presidencial and bougainvillea-filled plazas lined with cafes and bars. The Miraflores Locks offers views of ships traversing the canal, an essential shipping route linking the Atlantic and Pacific.",
+                "image": "panama-panamacity.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Philippines",
+                "city": "Manila",
+                "subtitle": "Capital of the Philippines",
+                "path": "philippines-manila",
+                "description": "Manila, the capital of the Philippines, is a densely populated bayside city on the island of Luzon, which mixes Spanish colonial architecture with modern skyscrapers. Intramuros, a walled city in colonial times, is the heart of Old Manila. It’s home to the baroque 16th-century San Agustin Church as well as Fort Santiago, a storied citadel and former military prison.",
+                "image": "philippines-manila.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Portugal",
+                "city": "Lisbon",
+                "subtitle": "Capital of Portugal",
+                "path": "portugal-lisbon",
+                "description": "Lisbon is Portugal’s hilly, coastal capital city. From imposing São Jorge Castle, the view encompasses the old city’s pastel-colored buildings, Tagus Estuary and Ponte 25 de Abril suspension bridge. Nearby, the National Azulejo Museum displays 5 centuries of decorative ceramic tiles. Just outside Lisbon is a string of Atlantic beaches, from Cascais to Estoril.",
+                "image": "portugal-lisbon.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Qatar",
+                "city": "Doha",
+                "subtitle": "Capital of Qatar",
+                "path": "qatar-doha",
+                "description": "Doha is the capital and most populous city of the State of Qatar. Doha has a population of 1,850,000 in the city proper with the population close to 2.4 million. The city is located on the coast of the Persian Gulf in the east of the country. Wikipedia",
+                "image": "qatar-doha.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Russia",
+                "city": "Moscow",
+                "subtitle": "Capital of Russia",
+                "path": "russia-moscow",
+                "description": "Moscow, on the Moskva River in western Russia, is the nation’s cosmopolitan capital. In its historic core is the Kremlin, a complex that’s home to the president and tsarist treasures in the Armoury. Outside its walls is Red Square, Russia's symbolic center. It's home to Lenin’s Mausoleum, the State Historical Museum's comprehensive collection and St. Basil’s Cathedral, known for its colorful, onion-shaped domes.",
+                "image": "russia-moscow.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Russia",
+                "city": "Stpetersburg",
+                "subtitle": "City in Russia",
+                "path": "russia-stpetersburg",
+                "description": "St. Petersburg is a Russian port city on the Baltic Sea. It was the imperial capital for 2 centuries, having been founded in 1703 by Peter the Great, subject of the city's iconic “Bronze Horseman” statue. It remains Russia's cultural center, with venues such as the Mariinsky Theatre hosting opera and ballet, and the State Russian Museum showcasing Russian art, from Orthodox icon paintings to Kandinsky works.",
+                "image": "russia-stpetersburg.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Saudiarabia",
+                "city": "Riyadh",
+                "subtitle": "Capital of Saudi Arabia",
+                "path": "saudiarabia-riyadh",
+                "description": "Riyadh, Saudi Arabia’s capital and main financial hub, is on a desert plateau in the country’s center. Business district landmarks include the 302m-high Kingdom Centre, with a sky bridge connecting 2 towers, and 267m-high Al Faisaliah Centre, with a glass-globe summit. In the historical Deira district, Masmak Fort marks the site of the 1902 raid that gave the Al Sauds control of Riyadh.",
+                "image": "saudiarabia-riyadh.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Scotland",
+                "city": "Edinburgh",
+                "subtitle": "Capital of Scotland",
+                "path": "scotland-edinburgh",
+                "description": "Edinburgh is Scotland's compact, hilly capital. It has a medieval Old Town and elegant Georgian New Town with gardens and neoclassical buildings. Looming over the city is Edinburgh Castle, home to Scotland’s crown jewels and the Stone of Destiny, used in the coronation of Scottish rulers. Arthur’s Seat is an imposing peak in Holyrood Park with sweeping views, and Calton Hill is topped with monuments and memorials.",
+                "image": "scotland-edinburgh.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Scotland",
+                "city": "Glasgow",
+                "subtitle": "City in Scotland",
+                "path": "scotland-glasgow",
+                "description": "Glasgow is a port city on the River Clyde in Scotland's western Lowlands. It's famed for its Victorian and art nouveau architecture, a rich legacy of the city's 18th–20th-century prosperity due to trade and shipbuilding. Today it's a national cultural hub, home to institutions including the Scottish Opera, Scottish Ballet and National Theatre of Scotland, as well as acclaimed museums and a thriving music scene.",
+                "image": "scotland-glasgow.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Senegal",
+                "city": "Dakar",
+                "subtitle": "Capital of Senegal",
+                "path": "senegal-dakar",
+                "description": "Dakar is the capital of Senegal, in West Africa. It’s an Atlantic port on the Cap-Vert peninsula. Its traditional Médina quarter is home to the Grande Mosquée, marked by a towering minaret. The Musée Théodore Monod displays cultural artifacts including clothing, drums, carvings and tools. The city’s vibrant nightlife is inspired by the local mbalax music.",
+                "image": "senegal-dakar.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Serbia",
+                "city": "Belgrade",
+                "subtitle": "Capital of Serbia",
+                "path": "serbia-belgrade",
+                "description": "Belgrade is the capital of the southeast European country of Serbia. Its most significant landmark is the Beogradska Tvrđava, an imposing fortress at the confluence of the Danube and the Sava rivers. The fort is a testament to the city’s strategic importance to the Roman, Byzantine, Ottoman, Serbian and Austrian empires, and it's now the site of several museums as well as Kalemegdan, a vast park.",
+                "image": "serbia-belgrade.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Singapore",
+                "city": "Singapore",
+                "subtitle": "Country in Asia",
+                "path": "singapore-singapore",
+                "description": "Singapore, an island city-state off southern Malaysia, is a global financial center with a tropical climate and multicultural population. Its colonial core centers on the Padang, a cricket field since the 1830s and now flanked by grand buildings such as City Hall, with its 18 Corinthian columns. In Singapore's circa-1820 Chinatown stands the red-and-gold Buddha Tooth Relic Temple, said to house one of Buddha's teeth.",
+                "image": "singapore-singapore.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Slovakia",
+                "city": "Bratislava",
+                "subtitle": "Capital of Slovakia",
+                "path": "slovakia-bratislava",
+                "description": "Bratislava, the capital of Slovakia, is set along the Danube River by the border with Austria and Hungary. It’s surrounded by vineyards and the Little Carpathian mountains, crisscrossed with forested hiking and cycling trails. The pedestrian-only, 18th-century old town is known for its lively bars and cafes. Perched atop a hill, the reconstructed Bratislava Castle overlooks old town and the Danube.",
+                "image": "slovakia-bratislava.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Southafrica",
+                "city": "Capetown",
+                "subtitle": "Capital of South Africa",
+                "path": "southafrica-capetown",
+                "description": "Cape Town is a port city on South Africa’s southwest coast, on a peninsula beneath the imposing Table Mountain. Slowly rotating cable cars climb to the mountain’s flat top, from which there are sweeping views of the city, the busy harbor and boats heading for Robben Island, the notorious prison that once held Nelson Mandela, which is now a living museum.",
+                "image": "southafrica-capetown.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Southafrica",
+                "city": "Durban",
+                "subtitle": "City in South Africa",
+                "path": "southafrica-durban",
+                "description": "Durban, a coastal city in eastern South Africa’s KwaZulu-Natal province, is known for its African, Indian and colonial influences. Refurbished for soccer’s 2010 World Cup, the seafront promenade runs from uShaka Marine World, a huge theme park with an aquarium, to the futuristic Moses Mabhida Stadium. The Durban Botanical Gardens showcases African plant species",
+                "image": "southafrica-durban.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Southafrica",
+                "city": "Johannesburg",
+                "subtitle": "City in South Africa",
+                "path": "southafrica-johannesburg",
+                "description": "Johannesburg, South Africa's biggest city and capital of Gauteng province, began as a 19th-century gold-mining settlement. Its sprawling Soweto township was once home to Nelson Mandela and Desmond Tutu. Mandela’s former residence is now the Mandela House museum. Other Soweto museums that recount the struggle to end segregation include the somber Apartheid Museum and Constitution Hill, a former prison complex.",
+                "image": "southafrica-johannesburg.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Southafrica",
+                "city": "Kimberley",
+                "subtitle": "City in South Africa",
+                "path": "southafrica-kimberley",
+                "description": "Kimberley is the capital city of South Africa’s Northern Cape Province. It’s known for its 19th-century diamond mines, like the deep, hand-dug Big Hole. Nearby, the Kimberley Mine Museum is a re-creation of the town in its heyday, and displays jewellery and uncut diamonds. The William Humphreys Art Gallery exhibits South African work, Old Master drawings, 17th-century European paintings and modern art.",
+                "image": "southafrica-kimberley.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Southafrica",
+                "city": "Pretoria",
+                "subtitle": "Capital of South Africa",
+                "path": "southafrica-pretoria",
+                "description": "Pretoria is the administrative capital of South Africa. It straddles the Apies River and has spread eastwards into the foothills of the Magaliesberg mountains. It is one of the country's three capital cities, serving as the seat of the administrative branch of government, and of foreign embassies to South Africa. Wikipedia",
+                "image": "southafrica-pretoria.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Spain",
+                "city": "Barcelona",
+                "subtitle": "City in Spain",
+                "path": "spain-barcelona",
+                "description": "Barcelona, the cosmopolitan capital of Spain’s Catalonia region, is known for its art and architecture. The fantastical Sagrada Família church and other modernist landmarks designed by Antoni Gaudí dot the city. Museu Picasso and Fundació Joan Miró feature modern art by their namesakes. City history museum MUHBA, includes several Roman archaeological sites.",
+                "image": "spain-barcelona.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Spain",
+                "city": "Madrid",
+                "subtitle": "Capital of Spain",
+                "path": "spain-madrid",
+                "description": "Madrid, Spain's central capital, is a city of elegant boulevards and expansive, manicured parks such as the Buen Retiro. It’s renowned for its rich repositories of European art, including the Prado Museum’s works by Goya, Velázquez and other Spanish masters. The heart of old Hapsburg Madrid is the portico-lined Plaza Mayor, and nearby is the baroque Royal Palace and Armory, displaying historic weaponry.",
+                "image": "spain-madrid.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Srilanka",
+                "city": "Colombo",
+                "subtitle": "Capital of Sri Lanka",
+                "path": "srilanka-colombo",
+                "description": "Colombo, the capital of Sri Lanka, has a long history as a port on ancient east-west trade routes, ruled successively by the Portuguese, Dutch and British. That heritage is reflected in its its architecture, mixing colonial buildings with high-rises and shopping malls. The imposing Colombo National Museum, dedicated to Sri Lankan history, borders sprawling Viharamahadevi Park and its giant Buddha.",
+                "image": "srilanka-colombo.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Switzerland",
+                "city": "Geneva",
+                "subtitle": "City in Switzerland",
+                "path": "switzerland-geneva",
+                "description": "Geneva is a city in Switzerland that lies at the southern tip of expansive Lac Léman (Lake Geneva). Surrounded by the Alps and Jura mountains, the city has views of dramatic Mont Blanc. Headquarters of Europe’s United Nations and the Red Cross, it’s a global hub for diplomacy and banking. French influence is widespread, from the language to gastronomy and bohemian districts like Carouge.",
+                "image": "switzerland-geneva.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Syria",
+                "city": "Aleppo",
+                "subtitle": "City in Syria",
+                "path": "syria-aleppo",
+                "description": "Aleppo is a city in Syria, serving as the capital of the Aleppo Governorate, the most populous Syrian governorate. Wikipedia",
+                "image": "syria-aleppo.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Syria",
+                "city": "Damascus",
+                "subtitle": "Capital of Syria",
+                "path": "syria-damascus",
+                "description": "Damascus is the capital of the Syrian Arab Republic; it is also the country's largest city, following the decline in population of Aleppo due to the battle for the city. It is colloquially known in Syria as aš-Šām and titled the 'City of Jasmine'. Wikipedia",
+                "image": "syria-damascus.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Taiwan",
+                "city": "Taipei",
+                "subtitle": "Capital of Taiwan",
+                "path": "taiwan-taipei",
+                "description": "Taipei, the capital of Taiwan, is a modern metropolis with Japanese colonial lanes, busy shopping streets and contemporary buildings. The skyline is crowned by the 509m-tall, bamboo-shaped Taipei 101 skyscraper, with upscale shops at the base and a rapid elevator to an observatory near the top. Taipei is also known for its lively street-food scene and many night markets, including expansive Shilin market.",
+                "image": "taiwan-taipei.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Thailand",
+                "city": "Bangkok",
+                "subtitle": "Capital of Thailand",
+                "path": "thailand-bangkok",
+                "description": "Bangkok, Thailand’s capital, is a large city known for ornate shrines and vibrant street life. The boat-filled Chao Phraya River feeds its network of canals, flowing past the Rattanakosin royal district, home to opulent Grand Palace and its sacred Wat Phra Kaew Temple. Nearby is Wat Pho Temple with an enormous reclining Buddha and, on the opposite shore, Wat Arun Temple with its steep steps and Khmer-style spire.",
+                "image": "thailand-bangkok.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Tunisia",
+                "city": "Tunis",
+                "subtitle": "Country in North Africa",
+                "path": "tunisia-tunis",
+                "description": "Tunisia is a North African country bordering the Mediterranean Sea and Sahara Desert. In the capital, Tunis, the Bardo Museum has archaeological exhibits from Roman mosaics to Islamic art. The city’s medina quarter encompasses the massive Al-Zaytuna Mosque and a thriving souk. To the east, the site of ancient Carthage features the Antonine Baths and other ruins, plus artifacts at the Carthage National Museum.",
+                "image": "tunisia-tunis.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Turkey",
+                "city": "Ankara",
+                "subtitle": "Capital of Turkey",
+                "path": "turkey-ankara",
+                "description": "Ankara, Turkey’s cosmopolitan capital, sits in the country’s central Anatolia region. It’s a center for the performing arts, home to the State Opera and Ballet, the Presidential Symphony Orchestra and several national theater companies. Overlooking the city is Anitkabir, the enormous hilltop mausoleum of Kemal Atatürk, modern Turkey’s first president, who declared Ankara the capital in 1923.",
+                "image": "turkey-ankara.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Turkey",
+                "city": "Istanbul",
+                "subtitle": "City in Turkey",
+                "path": "turkey-istanbul",
+                "description": "Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. In the Sultanahmet district, the open-air, Roman-era Hippodrome was for centuries the site of chariot races, and Egyptian obelisks also remain. The iconic Byzantine Hagia Sophia features a soaring 6th-century dome and rare Christian mosaics.",
+                "image": "turkey-istanbul.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Unitedarabemirates",
+                "city": "Abudhabi",
+                "subtitle": "Capital of the United Arab Emirates",
+                "path": "unitedarabemirates-abudhabi",
+                "description": "Abu Dhabi, the capital of the United Arab Emirates, sits off the mainland on an island in the Persian (Arabian) Gulf. Its focus on oil exports and commerce is reflected by the skyline’s modern towers and shopping megacenters such as Abu Dhabi and Marina malls. Beneath white-marble domes, the vast Sheikh Zayed Grand Mosque features an immense Persian carpet, crystal chandeliers and capacity for 41,000 worshipers.",
+                "image": "unitedarabemirates-abudhabi.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Unitedarabemirates",
+                "city": "Dubai",
+                "subtitle": "City in the United Arab Emirates",
+                "path": "unitedarabemirates-dubai",
+                "description": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks.",
+                "image": "unitedarabemirates-dubai.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Washington",
+                "subtitle": "US State",
+                "path": "USA-washington",
+                "description": "Often referred to by its full title, Washington State, to distinguish it from Washington, D.C., Washington [6] offers rugged coastline, deserts, forests, mountains, volcanoes, and hundreds of coastal islands to explore. The Cascade Mountains bisect the state, with the damp forested coastal areas to the west, and pineforests, deserts and irrigated farmland of the Columbia River Plateau to the east.",
+                "image": "USA-washington.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Alabama",
+                "subtitle": "US State",
+                "path": "USA-alabama",
+                "description": "Alabama [9] is a state in the Southern United States of America. The state is named after the Alabama tribe, a Native American people who originally lived at the confluence of the Coosa and Tallapoosa Rivers. Alabama is known for its scenic beauty, and has a lot to offer those who enjoy the great outdoors.",
+                "image": "USA-alabama.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Alaska",
+                "subtitle": "US State",
+                "path": "USA-alaska",
+                "description": "Alaska [11] is the 49th and largest state in the United States of America. Separated from the rest of the country, (the 'lower 48'), by Canada, Alaska lies on the Arctic Circle. It is still the least densely populated state in the union and for a long time was home to the lowest population. America's final frontier is the size of California, Texas and Montana combined, making it huge in comparison to the rest of the states! Alaska is also home to the highest point in North America and all of the top ten highest mountains in the USA. Across the Bering Strait lies the country of Russia and the continent of Asia.",
+                "image": "USA-alaska.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Arizona",
+                "subtitle": "US State",
+                "path": "USA-arizona",
+                "description": "Arizona [5], also known as the Grand Canyon State, is located in the American Southwest. Admitted as the 48th State of the Union in 1912, Arizona is home to the Grand Canyon as well as a variety of terrain, climates and cultures. To the west is California and Nevada, to the north is Utah, to the east is New Mexico, to the northeast is Colorado, and to the south is the Mexican state of Sonora. It is one of the Four Corners states.",
+                "image": "USA-arizona.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Arkansas",
+                "subtitle": "US State",
+                "path": "USA-arkansas",
+                "description": "Arkansas is a southern U.S. state bordering the Mississippi River. It's known for its abundant park and wilderness areas, with terrain encompassing mountains, caves, rivers and hot springs. The rugged Ozarks region in its northwest has hiking trails and limestone caves such as Blanchard Springs Caverns. Its capital, Little Rock, hosts the Clinton Presidential Center, housing Bill Clinton’s presidential archives.",
+                "image": "USA-arkansas.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "California",
+                "subtitle": "US State",
+                "path": "USA-california",
+                "description": "California, a western U.S. state, stretches from the Mexican border along the Pacific for nearly 900 miles. Its terrain includes cliff-lined beaches, redwood forest, the Sierra Nevada Mountains, Central Valley farmland and the Mojave Desert. The city of Los Angeles is the seat of the Hollywood entertainment industry. Hilly San Francisco is known for the Golden Gate Bridge, Alcatraz Island and cable cars.",
+                "image": "USA-california.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Colorado",
+                "subtitle": "US State",
+                "path": "USA-colorado",
+                "description": "Colorado, a western U.S. state, has a diverse landscape of arid desert, river canyons and snow-covered Rocky Mountains, which are partly protected by Rocky Mountain National Park. Elsewhere, Mesa Verde National Park features Ancestral Puebloan cliff dwellings. Perched a mile above sea level, Denver, Colorado’s capital and largest city, features a vibrant downtown area.",
+                "image": "USA-colorado.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Connecticut",
+                "subtitle": "US State",
+                "path": "USA-connecticut",
+                "description": "Connecticut is a U.S. state in southern New England that has a mix of coastal cities and rural areas dotted with small towns. Mystic is famed for its Seaport museum filled with centuries-old ships, and the beluga whale exhibits at Mystic Aquarium. On Long Island Sound, the city of New Haven is known as the home of Yale University and its acclaimed Peabody Museum of Natural History.",
+                "image": "USA-connecticut.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Delaware",
+                "subtitle": "US State",
+                "path": "USA-delaware",
+                "description": "Delaware, a small Mid-Atlantic U.S. state, sits on a peninsula marked by dune-backed beaches bordering the Atlantic Ocean, Delaware River and Delaware Bay. In Dover, the capital, First State Heritage Park encompasses 18th-century Colonial landmarks like the Georgian-style Old State House. The city of Wilmington is known for the Riverfront, a waterside district of parks, boutiques and restaurants.",
+                "image": "USA-delaware.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Florida",
+                "subtitle": "US State",
+                "path": "USA-florida",
+                "description": "Florida is the southeasternmost U.S. state, with the Atlantic on one side and the Gulf of Mexico on the other. It has hundreds of miles of beaches. The city of Miami is known for its Latin-American cultural influences and notable arts scene, as well as its nightlife, especially in upscale South Beach. Orlando is famed for theme parks, including Walt Disney World.",
+                "image": "USA-florida.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Georgia",
+                "subtitle": "US State",
+                "path": "USA-georgia",
+                "description": "Georgia, a country at the intersection of Europe and Asia, is a former Soviet republic that’s home to Caucasus Mountain villages and Black Sea beaches. It’s famous for Vardzia, a sprawling cave monastery dating to the 12th century, and the ancient wine-growing region Kakheti. The capital, Tbilisi, is known for the diverse architecture and mazelike, cobblestone streets of its old town.",
+                "image": "USA-georgia.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Hawaii",
+                "subtitle": "US State",
+                "path": "USA-hawaii",
+                "description": "Hawaii is a state in the Pacific United States. It is the most recent state to join the United States, on August 21, 1959. Hawaii is the only U.S. state geographically located in Oceania, although it is governed as a part of North America, and the only one composed entirely of islands. Wikipedia",
+                "image": "USA-hawaii.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Idaho",
+                "subtitle": "US State",
+                "path": "USA-idaho",
+                "description": "Idaho is a northwestern U.S. state known for mountainous landscapes, and vast swaths of protected wilderness and outdoor recreation areas. The capital, Boise, is set in the Rocky Mountain foothills and is bisected by the Boise River, which is popular for rafting and fishing. The city’s riverfront Julia Davis Park is a downtown green space containing a rose garden, museums and a zoo.",
+                "image": "USA-idaho.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Illinois",
+                "subtitle": "US State",
+                "path": "USA-illinois",
+                "description": "Illinois is a midwestern state bordering Indiana in the east and the Mississippi River in the west. Nicknamed 'the Prairie State' it's marked by farmland, forests, rolling hills and wetlands. Chicago, one of the largest cities in the U.S, is in the northeast on the shores of Lake Michigan. It’s famous for its skyscrapers, such as sleek, 1,451-ft. Willis Tower and the neo-Gothic Tribune Tower.",
+                "image": "USA-illinois.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Indiana",
+                "subtitle": "US State",
+                "path": "USA-indiana",
+                "description": "Indiana is a U.S. state in the Midwestern and Great Lakes regions of North America. Indiana is the 38th-largest by area and the 17th-most populous of the 50 United States. Its capital and largest city is Indianapolis. Indiana was admitted to the United States as the 19th U.S. state on December 11, 1816. Wikipedia",
+                "image": "USA-indiana.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Kansas",
+                "subtitle": "US State",
+                "path": "USA-kansas",
+                "description": "Kansas is a U.S. state in the Midwestern United States. Its capital is Topeka and its largest city is Wichita, with its most populated county being Johnson County. Kansas is bordered by Nebraska on the north; Missouri on the east; Oklahoma on the south; and Colorado on the west. Wikipedia",
+                "image": "USA-kansas.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Kentucky",
+                "subtitle": "US State",
+                "path": "USA-kentucky",
+                "description": "Kentucky is a southeastern state bounded by the Ohio River in the north and the Appalachian Mountains in the east, with Frankfort the state capital. The state's largest city, Louisville, is home to the Kentucky Derby, the renowned horse race held at Churchill Downs on the first Saturday in May. The race is preceded by a 2-week festival and celebrated in the Kentucky Derby Museum year-round.",
+                "image": "USA-kentucky.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Louisiana",
+                "subtitle": "US State",
+                "path": "USA-louisiana",
+                "description": "Louisiana is a southeastern U.S. state on the Gulf of Mexico. Its history as a melting pot of French, African, American and French-Canadian cultures is reflected in its Creole and Cajun cultures. The largest city, New Orleans, is known for its colonial-era French Quarter, raucous Mardi Gras festival, jazz music, Renaissance-style St. Louis Cathedral and wartime exhibits at the huge National WWII Museum.",
+                "image": "USA-louisiana.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Maine",
+                "subtitle": "US State",
+                "path": "USA-maine",
+                "description": "Maine, the northeasternmost U.S. state, is known for its rocky coastline, maritime history and nature areas like the granite and spruce islands of Acadia National Park. Moose are plentiful in Baxter State Park, home to Mt. Katahdin, endpoint of the Appalachian Trail. Lighthouses such as the candy-striped beacon at West Quoddy Head, dot the coast, as do lobster shacks and sandy beaches like Ogunquit and Old Orchard.",
+                "image": "USA-maine.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Maryland",
+                "subtitle": "US State",
+                "path": "USA-maryland",
+                "description": "Maryland is a Mid-Atlantic state that's defined by its abundant waterways and coastlines on the Chesapeake Bay and Atlantic Ocean. Its largest city, Baltimore, has a long history as a major seaport. Fort McHenry, birthplace of the U.S. national anthem, sits at the mouth of Baltimore’s Inner Harbor, home to the National Aquarium and Maryland Science Center.",
+                "image": "USA-maryland.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Massachusetts",
+                "subtitle": "US State",
+                "path": "USA-massachusetts",
+                "description": "Massachusetts, officially the Commonwealth of Massachusetts, is the most populous state in the New England region of the northeastern United States. It borders on the Atlantic Ocean to the east, the states of Connecticut and Rhode Island to the south, New Hampshire and Vermont to the north, and New York to the west. Wikipedia",
+                "image": "USA-massachusetts.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Michigan",
+                "subtitle": "US State",
+                "path": "USA-michigan",
+                "description": "Michigan is a state in the Great Lakes and Midwestern regions of the United States. The state's name, Michigan, originates from the Ojibwe word mishigamaa, meaning 'large water' or 'large lake'. Wikipedia",
+                "image": "USA-michigan.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Minnesota",
+                "subtitle": "US State",
+                "path": "USA-minnesota",
+                "description": "",
+                "image": "USA-minnesota.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Missouri",
+                "subtitle": "US State",
+                "path": "USA-missouri",
+                "description": "Missouri is a state in the Midwestern United States. With over six million residents, it is the 18th-most populous state of the Union. The largest urban areas are St. Louis, Kansas City, Springfield and Columbia; the capital is Jefferson City. The state is the 21st-most extensive in area. Wikipedia",
+                "image": "USA-missouri.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Nebraska",
+                "subtitle": "US State",
+                "path": "USA-nebraska",
+                "description": "Nebraska is a midwestern U.S. state encompassing the prairies of the Great Plains, the towering dunes of the Sandhills and the panhandle’s dramatic rock formations. Lincoln, the capital and a vibrant university town, is distinguished by its soaring state capitol. The city of Omaha is home to the Durham Museum, which honors the state’s pioneering past in a converted railroad depot.",
+                "image": "USA-nebraska.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Nevada",
+                "subtitle": "US State",
+                "path": "USA-nevada",
+                "description": "Nevada is a western U.S. state defined by its great expanses of desert, and by the 24-hour casinos and entertainment for which its largest city, Las Vegas, is famed. Las Vegas is home to elaborate theme hotels and luxury resorts that line its main thoroughfare, the Las Vegas Strip. The city's also home to museums such as the Mob Museum, extravagant live shows and upscale shopping malls and restaurants.",
+                "image": "USA-nevada.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Newyork",
+                "subtitle": "US State",
+                "path": "USA-newyork",
+                "description": "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square.",
+                "image": "USA-newyork.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Newmexico",
+                "subtitle": "US State",
+                "path": "USA-newmexico",
+                "description": "New Mexico is a southwestern U.S. state whose diverse terrain encompasses the Chihuahuan Desert and the Sangre de Cristo Mountains. Its capital, Santa Fe, founded in 1610, is known for upscale spas and Spanish colonial architecture. It's also home to a vibrant arts scene, as well as the Georgia O’Keeffe Museum, featuring the artist's iconic New Mexican landscape paintings, and the open-air Santa Fe Opera.",
+                "image": "USA-newmexico.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Newjersey",
+                "subtitle": "US State",
+                "path": "USA-newjersey",
+                "description": "New Jersey is a northeastern U.S. state with some 130 miles of Atlantic coast. Jersey City, across the Hudson River from Lower Manhattan, is the site of Liberty State Park, where ferries embark for nearby Ellis Island, with its historic Immigration Museum, and the iconic Statue of Liberty. The Jersey Shore includes notable resort towns like historic Asbury Park and Cape May, with its preserved Victorian buildings.",
+                "image": "USA-newjersey.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Northcarolina",
+                "subtitle": "US State",
+                "path": "USA-northcarolina",
+                "description": "North Carolina is a state located in the southeastern region of the United States. North Carolina is the 28th largest and 9th-most populous of the 50 United States. North Carolina is bordered by Virginia to the north, the Atlantic Ocean to the east, Georgia and South Carolina to the south, and Tennessee to the west. Wikipedia",
+                "image": "USA-northcarolina.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Ohio",
+                "subtitle": "US State",
+                "path": "USA-ohio",
+                "description": "Ohio is a midwestern U.S. state stretching from the Ohio River and Appalachian Mountains in the south to Lake Erie in the north. On the shores of the lake is the city of Cleveland, site of the Cleveland Museum of Art and its renowned collection of European paintings and especially Asian art. Cleveland is also home to the Rock and Roll Hall of Fame and Museum, and close to expansive Cuyahoga Valley National Park.",
+                "image": "USA-ohio.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Oklahoma",
+                "subtitle": "US State",
+                "path": "USA-oklahoma",
+                "description": "Oklahoma is a state in the South Central region of the United States, bordered by Kansas on the north, Missouri on the northeast, Arkansas on the east, Texas on the south and west, New Mexico on the west, and Colorado on the northwest. Wikipedia",
+                "image": "USA-oklahoma.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Oregon",
+                "subtitle": "US State",
+                "path": "USA-oregon",
+                "description": "Oregon is a coastal U.S. state in the Pacific Northwest known for its diverse landscape of forests, mountains, farms and beaches. The city of Portland is famed for its quirky, avant-garde culture and is home to iconic coffee shops, boutiques, farm-to-table restaurants and microbreweries. Highlights include the Native American art in the Portland Art Museum, the Japanese Garden and the Lan Su Chinese Garden.",
+                "image": "USA-oregon.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Pennsylvania",
+                "subtitle": "US State",
+                "path": "USA-pennsylvania",
+                "description": "Pennsylvania, officially the Commonwealth of Pennsylvania, is a state located in the northeastern, Great Lakes and Mid-Atlantic regions of the United States. The Appalachian Mountains run through its middle. Wikipedia",
+                "image": "USA-pennsylvania.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Southcarolina",
+                "subtitle": "US State",
+                "path": "USA-southcarolina",
+                "description": "South Carolina is a southeastern U.S. state known for its shoreline of subtropical beaches and marshlike sea islands. Coastal Charleston is a historic city, defined by pastel-colored houses, Old South plantations and Fort Sumter, where the Civil War’s opening shots were fired. To the north is the Grand Strand, a roughly 60-mile stretch of beachfront known for golf courses and the vacation town Myrtle Beach.",
+                "image": "USA-southcarolina.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Rhodeisland",
+                "subtitle": "US State",
+                "path": "USA-rhodeisland",
+                "description": "Rhode Island, a U.S. state in New England, is known for sandy shores and seaside Colonial towns. It's home to several large cities, including Newport, which is famed for sailing and Gilded Age mansions, such as The Breakers. Providence, its capital, is home to Brown University, green Roger Williams Park, landscaped Waterplace Park and Riverwalk, with the famed WaterFire art installation.",
+                "image": "USA-rhodeisland.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Tennessee",
+                "subtitle": "US State",
+                "path": "USA-tennessee",
+                "description": "Tennessee is a landlocked state in the U.S. South. Its capital, centrally located Nashville, is the heart of the country-music scene, with the long-running Grand Ole Opry, the Country Music Hall of Fame and Museum and a legendary stretch of honky-tonks and dance halls. Memphis, in the far southwest, is the home of Elvis Presley’s Graceland, rock-and-roll pioneering Sun Studio and the blues clubs of Beale Street.",
+                "image": "USA-tennessee.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Texas",
+                "subtitle": "US State",
+                "path": "USA-texas",
+                "description": "Texas is the second largest state in the United States by both area and population. Geographically located in the South Central region of the country, Texas shares borders with the U.S. states of ... Wikipedia",
+                "image": "USA-texas.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Utah",
+                "subtitle": "US State",
+                "path": "USA-utah",
+                "description": "Utah is a state in the western United States. It became the 45th state admitted to the U.S. on January 4, 1896. Utah is the 13th-largest by area, 30th-most-populous, and 11th-least-densely populated of the 50 United States. Utah has a population of more than 3 million according to the Census estimate for July 1, 2016. Wikipedia",
+                "image": "USA-utah.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Vermont",
+                "subtitle": "US State",
+                "path": "USA-vermont",
+                "description": "Vermont is a state in the northeastern United States, known for its natural landscape, which is primarily forested. Part of the New England region, it's also known for being home to more than 100 19th-century covered wooden bridges, and as a major producer of maple syrup. Thousands of acres of mountain terrain are crossed by hiking trails and skiing slopes.",
+                "image": "USA-vermont.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Virginia",
+                "subtitle": "US State",
+                "path": "USA-virginia",
+                "description": "Virginia, a southeastern U.S. state, stretches from the Chesapeake Bay to the Appalachian Mountains, with a long Atlantic coastline. It's one of the 13 original colonies, with historic landmarks including Monticello, founding father Thomas Jefferson’s iconic Charlottesville plantation. The Jamestown Settlement and Colonial Williamsburg are living-history museums reenacting Colonial and Revolutionary-era life.",
+                "image": "USA-virginia.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Washington",
+                "subtitle": "US State",
+                "path": "USA-washington",
+                "description": "Washington, officially the State of Washington, is a state in the Pacific Northwest region of the United States. Wikipedia",
+                "image": "USA-washington.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Westvirginia",
+                "subtitle": "US State",
+                "path": "USA-westvirginia",
+                "description": "West Virginia is an eastern U.S. state in the tree-covered Appalachian Mountains. The town of Harpers Ferry, where the Shenandoah River meets the Potomac River, is the site of a famous Civil War–era raid. Surrounded by a national historical park, the town looks as it did in the 19th century, with many of the buildings open to the public as living-history museums.",
+                "image": "USA-westvirginia.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "USA",
+                "city": "Wisconsin",
+                "subtitle": "US State",
+                "path": "USA-wisconsin",
+                "description": "Wisconsin is a midwestern U.S. state with coastlines on 2 Great Lakes (Michigan and Superior) and an interior of forests and farms. Milwaukee, the largest city, is known for the Milwaukee Public Museum, with its numerous re-created international villages, and the Harley-Davidson Museum, displaying classic motorcycles. Several beer companies are based in Milwaukee, and many offer brewery tours.",
+                "image": "USA-wisconsin.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Vaticancity",
+                "city": "Vatican",
+                "subtitle": "",
+                "path": "vaticancity-vatican",
+                "description": "Vatican City, a city-state surrounded by Rome, Italy, is the headquarters of the Roman Catholic Church. It's home to the Pope and a trove of iconic art and architecture. Its Vatican Museums house ancient Roman sculptures such as the famed “Laocoön and His Sons” as well as Renaissance frescoes in the Raphael Rooms and the Sistine Chapel, famous for Michelangelo’s ceiling.",
+                "image": "vaticancity-vatican.jpeg",
+                "lat": ""
+            },
+            {
+                "country": "Yemen",
+                "city": "Sanaa",
+                "subtitle": "Capital of Yemen",
+                "path": "yemen-sanaa",
+                "description": "",
+                "image": "yemen-sanaa.jpeg",
+                "lat": ""
+            }
+        ]
+    }
+}
