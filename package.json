@@ -45,7 +45,7 @@
     "@nguniversal/express-engine": "^6.0.0",
     "@nguniversal/module-map-ngfactory-loader": "^6.0.0",
     "core-js": "^2.4.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "liquidjs": "^8.5.2",
     "lodash": "^4.17.15",
     "puppeteer": "^1.19.0",
